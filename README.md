@@ -1,4 +1,4 @@
-# Questions_Setter
+# Problems_Setter
 
 A web application where users can upload their own questions as well as view problem statement.
 
